@@ -27,8 +27,6 @@ DEBUG = False
 TEMPLATE_DEBUG = False
 
 ALLOWED_HOSTS = ["todo-staging.onurka.com"]
-     'todo-staging.onurka.com',
-]
 
 
 # Application definition
